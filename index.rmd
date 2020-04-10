@@ -7,5 +7,5 @@ pagetitle: The Page
 # Cody Iordachescu
 #### My First Website from Github!
 ---
-### contact info
-email: codyiorda@gmail.com
+### About myself:
+##
