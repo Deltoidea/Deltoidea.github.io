@@ -4,10 +4,35 @@ output: html_document
 pagetitle: The Page
 ---
 
-# Cody Iordachescu
----
+##Cody Iordachescu
+
 ## **Objective Statement**
 
-#### Currently a student at Utah Valley University pursuing a degree in biology. Self motivated and project oriented. Used to working on solo projects, but enjoy a cooperative environment. I hope to apply my skills in new ways and learn while in your employ. 
+Currently a student at Utah Valley University pursuing a degree in biology. Self motivated and project oriented. Used to working on solo projects, but enjoy a cooperative environment. I hope to apply my skills in new ways and learn while in your employ. 
+
 ---
+
 ## **Work Experience**
+
+### **Rocky Mountain Auto Body & Paint: (2009-2019)**
+
+* Responsibilities: Final inspection of outgoing vehicles. Parts distribution and returns. Production of maintenance schedules. Building maintenance and minor repairs. 
+* Notable achievements: I saved the company several thousand dollars by tracking down unpaid supplements and contacting the responsible insurance companies in order to collect payment.
+* Reference: Mitch Iordachescu(Owner): (801) 722-5029
+
+UVU Anatomy Lab: (2019) 
+
+* Responsibilities: Aid in teaching portions of anatomy lessons. Ensure that lab rules are followed and models and cadavers are treated with respect. 
+
+Table One: (2012-13)
+
+* Responsibilities:  Food prep, Dish washing, and kitchen sanitation.
+* Reference: Kevin Dalebout: (801) 361-8991
+
+Kevin’s: (2013) 
+
+* Responsibilities: Set up and take down of the farmer’s market booth, taking orders, and making delicious chicken sandwiches.
+
+Big Clean Carwash: (2013)
+
+* Responsibilities: Addressing customer concerns, maintaining chemicals, cleaning the bays and surrounding areas.
